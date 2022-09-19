@@ -1,0 +1,16 @@
+{
+  "name": "clock",
+  "version": "2.0.0",
+  "description": "a clock that tells the time after one hour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello world",
+    "start":"serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.0.1"
+  }
+}
